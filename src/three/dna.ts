@@ -1,4 +1,4 @@
-import { Scene, WebGLRenderer, PerspectiveCamera, Clock, Group, MeshBasicMaterial, Mesh, Vector3, SphereGeometry, GridHelper, LineCurve3, TubeGeometry } from 'three'
+import { Scene, WebGLRenderer, PerspectiveCamera, Clock, Group, MeshBasicMaterial, Mesh, SphereGeometry, LineCurve3, TubeGeometry } from 'three'
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js'
 
 class DNA {
